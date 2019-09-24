@@ -13,4 +13,7 @@
     <string name="sunrise_value">06:26</string>
     <string name="sunset_param">Заход солнца</string>
     <string name="sunset_value">19:51</string>
+    <string name="error_text">Ошибка обновления данных</string>
+    <string name="update">Обновить</string>
+    <string name="ok">OK</string>
 </resources>
